@@ -1,10 +1,9 @@
 # karma-ievms-launcher
 
+This Karma plugin adds browser launchers for ievms virtual machines. This allows for testing across multiple versions of Internet Explorer simultaneously.
+
 [Karma](http://karma-runner.github.io) launcher for 
 [ievms](http://xdissent.github.io/ievms) virtual machines.
-
-This Karma plugin adds browser launchers for ievms virtual machines. This
-allows for testing across multiple versions of Internet Explorer simultaneously.
 
 
 Requirements
