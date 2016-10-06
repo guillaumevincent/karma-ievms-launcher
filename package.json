@@ -1,0 +1,25 @@
+{
+  "name": "karma-ievms-launcher",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "karma",
+    "ievms"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/guillaumevincent/karma-ievms-launcher.git"
+  },
+  "author": "Guillaume Vincent <guillaume@oslab.fr>",
+  "license": "MIT",
+  "dependencies": {
+    "iectrl": "^0.1.1"
+  },
+  "peerDependencies": {
+    "karma": ">=0.9"
+  }
+}
